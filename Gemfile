@@ -22,6 +22,8 @@ gem 'mini_magick', '4.8.0'
 
 gem 'devise'
 
+gem 'gravtastic'
+
 gem 'puma', '~> 3.7'
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 5.0'
